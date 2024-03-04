@@ -8,7 +8,7 @@
 
   <div id="badges">
     <a href="https://api.whatsapp.com/send/?phone=79251020674&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" width="40" height="40" alt="WhatsApp" />
+      <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" height="40" alt="WhatsApp" />
     </a>
     <a href="https://t.me/dmitriybel1y" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
