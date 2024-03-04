@@ -4,6 +4,19 @@
 - 📋 Моё резюме на - [hh.ru](https://hh.ru/resume/84a4ec51ff0c24e6e70039ed1f7961346d4652)
 - 💼 Все мои проекты доступны здесь - [GitHub](https://github.com/kuchenkodmitry?tab=repositories)
 
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://api.whatsapp.com/send/?phone=79251020674&text&type=phone_number&app_absent=0" target="_blank">
+      <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" width="40" height="40" alt="WhatsApp" />
+    </a>
+    <a href="https://t.me/dmitriybel1y" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+---
+
 ### 💻 Технологии:
 
 <div>
