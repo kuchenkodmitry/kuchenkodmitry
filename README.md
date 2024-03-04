@@ -27,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
+  <img src="https://redux-toolkit.js.org/img/redux_white.svg" title="ReduxToolKit" alt="ReduxToolKit" width="40" height="40"/>&nbsp;
 </div>
 
 ---
