@@ -4,7 +4,7 @@
 - 📋 Моё резюме на - [hh.ru](https://hh.ru/resume/84a4ec51ff0c24e6e70039ed1f7961346d4652)
 - 💼 Все мои проекты доступны здесь - [GitHub](https://github.com/kuchenkodmitry?tab=repositories)
 
-### 🤝 Социальные сети:
+### 🤝 Связаться со мной:
 
   <div id="badges">
     <a href="https://api.whatsapp.com/send/?phone=79251020674&text&type=phone_number&app_absent=0" target="_blank">
