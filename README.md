@@ -29,7 +29,6 @@
 ## 📫 Контакты
 
 - **Телефон**: +7 (925) 1020674
-- **Мобильный**: +7 (925) 1020674
 - **Email**: [dmitry.kuchenko@yandex.ru](mailto:dmitry.kuchenko@yandex.ru)
 - **Telegram/WhatsApp**: [wa.link/9lgit4](https://wa.link/9lgit4)
 - **GitHub**: [github.com/kuchenkodmitry](https://github.com/kuchenkodmitry)
