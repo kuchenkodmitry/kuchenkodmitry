@@ -1,46 +1,47 @@
-# Привет 👋 ! Я - Кученко Дмитрий.
+# Привет! Я - Дмитрий Кученко
 
-- 👀 Я ищу работу фронтенд-разработчиком - удалённо или в офисе в Москве.
-- 📋 Моё резюме на - [hh.ru](https://hh.ru/resume/84a4ec51ff0c24e6e70039ed1f7961346d4652)
-- 💼 Все мои проекты доступны здесь - [GitHub](https://github.com/kuchenkodmitry?tab=repositories)
+Я фронтенд-разработчик, ищу работу удаленно или в офисе в Москве. У меня есть опыт разработки адаптивных и высокопроизводительных веб-приложений. 
 
-### 🤝 Связаться со мной:
+## 🚀 О себе
 
-  <div id="badges">
-    <a href="https://api.whatsapp.com/send/?phone=79251020674&text&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" height="40" alt="WhatsApp" />
-    </a>
-    <a href="https://t.me/dmitriybel1y" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
+- 🌍 Проживаю в Москве
+- 💼 Открыт для удаленной работы и работы в офисе
+- 🎓 Образование: Московский финансово-промышленный университет "Синергия"
+- 🛠️ Опыт работы: Фриланс, Про-интерактив, АНО ДПО «Корпоративный университет Сбербанка»
+
+## 🔧 Технологии и навыки
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+## 📈 Статистика GitHub
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=kuchenkodmitry&show_icons=true&theme=radical)
+
+## 📫 Контакты
+
+- **Телефон**: +7 (925) 1020674
+- **Мобильный**: +7 (925) 1020674
+- **Email**: [dmitry.kuchenko@yandex.ru](mailto:dmitry.kuchenko@yandex.ru)
+- **Telegram/WhatsApp**: [wa.link/9lgit4](https://wa.link/9lgit4)
+- **GitHub**: [github.com/kuchenkodmitry](https://github.com/kuchenkodmitry)
+
+## 🛠️ Проекты
+
+### [Проект Элэнерго](https://el-energo.ru/)
+Создание функционального и адаптивного веб-сайта для энергетической компании.
+
+### [Проект ЭлектроЖор](https://electrojor.ru/)
+Разработка удобного интерфейса и улучшение пользовательского опыта.
 
 ---
 
-### 💻 Технологии:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://redux-toolkit.js.org/img/redux_white.svg" title="ReduxToolKit" alt="ReduxToolKit" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
-</div>
-
----
+Спасибо за внимание! Буду рад новым возможностям и сотрудничеству!
